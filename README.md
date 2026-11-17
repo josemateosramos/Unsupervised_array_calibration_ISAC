@@ -1,6 +1,6 @@
 # Unsupervised End-to-End Array Calibration for Multi-Target ISAC
 
-Code to reproduce the results of *J. M. Mateos-Ramos, B. Chatelier, L. Le Magoarou, N. Shlezinger, H. Wymeersch, C. Häger, "Unsupervised End-to-End Array Calibration for Multi-Target Integrated Sensing and Communication"*.
+Code to reproduce the results of *J. M. Mateos-Ramos, B. Chatelier, L. Le Magoarou, N. Shlezinger, H. Wymeersch, C. Häger, "Unsupervised End-to-End Array Calibration for Multi-Target Integrated Sensing and Communication", IEEE Transactions on Wireless Communications, 2026*.
 
 An ISAC base station with two impaired ULAs (gain-phase and antenna displacement impairments) is calibrated without labeled data: the steering vectors are parameterized by Ψ = [ξ, ω] and learned from the OMP residual (sensing) and the received energy at the UE (communication), with a gradient-free (GF) approximation of the channel gradient at the TX.
 
